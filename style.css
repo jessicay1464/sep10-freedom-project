@@ -1,0 +1,8 @@
+.grid-container {
+    display: grid;
+    grid-column-templates: auto auto auto;
+    border: 1px solid black;
+}
+.grid-item {
+    border: 1px solid black;
+}
