@@ -4,6 +4,7 @@
   background-color: white;
   padding: 10px;
   padding: 10px 10px;
+  
 }
 .grid-item {
   background-color: white;
@@ -11,6 +12,7 @@
   padding: 20px;
   font-size: 30px;
   text-align: center;
+  font-family: raleway;
 }
 .image {
     width: 300px;
@@ -21,13 +23,31 @@ a {
 }
 p {
   font-size: 20px;
+  font-family: raleway;
 }
 h1 {
   padding: 10px;
   font-family: raleway;
+  padding-top: 20px;
 }
 h2 {
   padding: 10px;
+  text-decoration: underline;
+  font-family: raleway;
+}
+button {
+  font-family: raleway;
+}
+ul {
+  font-size: 20px;
+  font-family: raleway;
+}
+body {
+  background-image: url('img/brown.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  color: #e9edc9;
 }
 .brick {
   font-family: dancing script;
@@ -37,11 +57,24 @@ h2 {
   border: 1px black solid;
 }
 .future {
-  font-family: ;
+  font-family: raleway;
 }
 .paper {
   font-size: 50px;
 }
 .letter {
   font-size: 30px;
+}
+#future {
+  width: 500px;
+  height: 300px;
+  float: right;
+  padding: 20px;
+  opacity: 0.5;
+}
+#future:hover {
+  opacity: 1;
+}
+.accordion-button {
+  background-color: #ffddd2;
 }
