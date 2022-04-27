@@ -60,7 +60,7 @@ body {
   color: #e9edc9;
 }
 .brick {
-  font-family: dancing script;
+  font-family: tapestry;
   font-size: 30px;
 }
 .case {
@@ -90,7 +90,7 @@ body {
   opacity: 1;
 }
 .accordion-header {
-  background-color: #ffddd2;
+  background-color: #d4a373;
 }
 .grass {
   color: #e9edc9;
@@ -99,14 +99,14 @@ body {
   background-color: #cb997e;
 }
 .color {
-  font-family: dancing script;
+  font-family: tapestry;
   font-size: 60px;
   padding-top: 15px;
 }
-#text {
-  font-size: 20px;
-  font-family: dancing script;
-}
+/*#text {*/
+/*  font-size: 20px;*/
+/*  font-family: tapestry;*/
+/*}*/
 
 @media (max-width: 576px) {
   .image {
