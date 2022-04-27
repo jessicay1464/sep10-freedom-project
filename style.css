@@ -83,7 +83,6 @@ body {
   float: right;
   padding: 20px;
   opacity: 0.5;
-
 }
 #future:hover {
   opacity: 1;
@@ -102,7 +101,6 @@ body {
   font-size: 60px;
   padding-top: 15px;
 }
-
 @media (max-width: 576px) {
   .image {
     display: block;
