@@ -116,7 +116,10 @@ body {
 #water {
   text-align: center;
 }
-#question {
+.question {
   font-family: tapestry;
   font-size: 30px;
+}
+.content {
+  color: #e9edc9;
 }
