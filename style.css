@@ -103,8 +103,9 @@ body {
   padding-top: 15px;
 }
 .tree {
-  font-family: lato;
-  font-size: 27px;
+  font-family: raleway;
+  font-size: 25px;
+  font-weight: 900;
 }
 #link{
   font-size: 20px;
