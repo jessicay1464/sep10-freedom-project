@@ -107,6 +107,9 @@ body {
   font-size: 25px;
   font-weight: 900;
 }
+.cat {
+  border: white;
+}
 #link{
   font-size: 20px;
 }
