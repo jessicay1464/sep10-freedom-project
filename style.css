@@ -1,23 +1,4 @@
-.grid-container {
-  display: grid;
-  grid-template-columns: auto auto auto;
-  background-color: #d4a373;
-  padding: 10px;
-  padding: 10px 10px;
-}
-.grid-item {
-  border: 1px solid #e9edc9;
-  padding: 20px;
-  font-size: 30px;
-  text-align: center;
-  font-family: raleway;
-  color: black;
-  background-image: url('img/brown.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-  color: #e9edc9;
-}
+
 a {
   padding-left: 10px;
   font-family: raleway;
@@ -127,7 +108,17 @@ body {
   .image {
     display: block;
   }
+  a.brick {
+    word-break: normal;
+  }
 }
 #water {
   text-align: center;
+}
+.col-sm-4 {
+  border: 2px solid #e9edc9;
+  text-align: center;
+}
+.paper {
+  padding: 10px;
 }
