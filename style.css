@@ -111,14 +111,15 @@ body {
   a.brick {
     word-break: normal;
   }
+  nav {
+    position: fixed;
+  }
 }
+
 #water {
   text-align: center;
 }
 .col-sm-4 {
   border: 2px solid #e9edc9;
   text-align: center;
-}
-.paper {
-  padding: 10px;
 }
