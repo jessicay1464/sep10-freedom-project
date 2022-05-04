@@ -65,6 +65,9 @@ body {
   padding: 10px 10px;
   border: 2px dashed white;
 }
+#water {
+  text-align: center;
+}
 .image {
     width: 300px;
     height: 200px;
@@ -91,8 +94,9 @@ body {
 .cat {
   border: white;
 }
-#link{
+#link {
   font-size: 20px;
+  color: #e9edc9;
 }
 #future {
   width: 500px;
@@ -116,9 +120,7 @@ body {
   }
 }
 
-#water {
-  text-align: center;
-}
+
 .col-sm-4 {
   border: 2px solid #e9edc9;
   text-align: center;
